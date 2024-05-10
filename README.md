@@ -10,7 +10,7 @@ The dataset is available on [Kaggle.com](http://www.kaggle.com)
 
 
 ## Tools
-1. SQL server 2019 for Exploratory Data Analysis check [Sql scripts](Project%1%SQL%github.sql)
+1. SQL server 2019 for Exploratory Data Analysis check [Sql scripts](Covid_scripts.sql)
 3. Tableau Public for the visualizations [check visualization](https://public.tableau.com/views/CovidDashboard_17153479076180/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
 ![Screenshot (129)](https://github.com/Marangi037/Covid19-data-exploration/assets/159117592/f142f518-5f7e-461b-acef-5228a441f013)
